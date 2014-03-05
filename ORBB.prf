@@ -1,0 +1,19 @@
+Settings	sector	\ORBB.SCT
+Settings	Settingsfile	\ORBB.txt
+Settings	SettingsfileVOICE	\ORBB.txt
+LastSession	connecttype	0
+LastSession	callsign	ORBB_CTR
+Voice	squelch	95.4
+Voice	PPPT	18677760
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+RecentFiles	Recent1	\ORBB_CTR.asr
+LastSession	atis2	Baghdad Center
+LastSession	facility	6
+LastSession	rating	4
+LastSession	atis3	Report callsign and position on initial contact
+LastSession	atis4	Visit vatme.net for more info
+LastSession	range	600
+Settings	AtisFolder	\UniATIS_ORBB\atisfiles.txt
+LastSession	atis_airport	ORBI
+LastSession	atis_letter	66
