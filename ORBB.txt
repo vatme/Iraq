@@ -634,6 +634,8 @@ AG:ORBB_N_CTR:129.100:voice.nyartcc.org:orbb_n_ctr
 AG:ORBB_S_CTR:123.000:voice.nyartcc.org:orbb_s_ctr
 AG:ORBI_APP:122.400:voice.nyartcc.org:orbi_app
 AG:ORBI_TWR:118.700:voice.nyartcc.org:orbi_twr
+AG:ORBI_GND:121.700:voice.nyartcc.org:orbi_gnd
+AG:ORBI_ATIS:127.250:voice.nyartcc.org:orbi_atis
 AG:ORMM_APP:124.520:voice.nyartcc.org:ormm_app
 AG:ORMM_TWR:118.700:voice.nyartcc.org:ormm_twr
 AG:ORMM_GND:121.700:voice.nyartcc.org:ormm_gnd
