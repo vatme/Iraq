@@ -1,0 +1,14 @@
+VOICE
+AG:Bagdad Control:129.150:voice1.vatsim-germany.org:orbb_ctr
+AG:Bagdad Control:129.100:voice1.vatsim-germany.org:orbb_n_ctr
+AG:Bagdad Control:123.000:voice1.vatsim-germany.org:orbb_s_ctr
+AG:Baghdad Approach:122.400:voice1.vatsim-germany.org:orbi_app
+AG:Basrah Approach:124.520:voice1.vatsim-germany.org:ormm_app
+AG:Al-Ashrah Approach:119.200:voice1.vatsim-germany.org:ormi_app
+AG:Baghdad Tower:118.700:voice1.vatsim-germany.org:orbi_twr
+AG:Basrah Tower:118.700:voice1.vatsim-germany.org:ormm_twr
+AG:Kirkuk Tower:125.550:voice1.vatsim-germany.org:orkk_twr
+AG:Al-Ashraf Tower:119.100:voice1.vatsim-germany.org:orni_twr
+AG:Basrah Ground:121.700:voice1.vatsim-germany.org:ormm_gnd
+AG:Bagdad Information:127.250:voice1.vatsim-germany.org:orbi_atis
+END

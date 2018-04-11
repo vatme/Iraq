@@ -1,0 +1,420 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\nathalie\Documents\EuroScope\IRQ-master\Data\Sector\IRQ.sct
+SECTORTITLE:IRQ.sct
+Airports:OIAA:name
+Airports:ORAA:name
+Airports:ORBI:name
+Airports:ORBM:name
+Airports:ORBR:name
+Airports:ORER:name
+Airports:ORKK:name
+Airports:ORMM:name
+Airports:ORNI:name
+Airports:ORSU:name
+ARTCC boundary:Amman ACC:
+ARTCC boundary:Ankara ACC:
+ARTCC boundary:Baghdad ACC:
+ARTCC boundary:Damascus ACC:
+ARTCC boundary:Jeddah ACC:
+ARTCC boundary:Kuwait ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC low boundary:Ali_TMA_1:
+ARTCC low boundary:Ali_TMA_2:
+ARTCC low boundary:Ali_TMA_3:
+ARTCC low boundary:Ali_TMA_4:
+ARTCC low boundary:Ali_TMA_5:
+ARTCC low boundary:Baghdad_TMA_1:
+ARTCC low boundary:Baghdad_TMA_2:
+ARTCC low boundary:Baghdad_TMA_4:
+ARTCC low boundary:Basrah CTR:
+ARTCC low boundary:Kirkuk CTR:
+ARTCC low boundary:Kirkuk_TMA_9:
+Free Text:Group\LTAA:freetext
+Free Text:Group\OEJD:freetext
+Free Text:Group\OIIX:freetext
+Free Text:Group\OJAC:freetext
+Free Text:Group\OKAC:freetext
+Free Text:Group\ORBI:freetext
+Free Text:Group\ORBM:freetext
+Free Text:Group\ORER:freetext
+Free Text:Group\ORMM:freetext
+Free Text:Group\ORNJ:freetext
+Free Text:Group\OSTT:freetext
+Free Text:ORBI\11:freetext
+Free Text:ORBI\12:freetext
+Free Text:ORBI\13:freetext
+Free Text:ORBI\14:freetext
+Free Text:ORBI\15:freetext
+Free Text:ORBI\16:freetext
+Free Text:ORBI\23:freetext
+Free Text:ORBI\24:freetext
+Free Text:ORBI\25:freetext
+Free Text:ORBI\26:freetext
+Free Text:ORBI\31:freetext
+Free Text:ORBI\32:freetext
+Free Text:ORBI\41:freetext
+Free Text:ORBI\42:freetext
+Free Text:ORBI\43:freetext
+Free Text:ORBI\A:freetext
+Free Text:ORBI\B:freetext
+Free Text:ORBI\B21:freetext
+Free Text:ORBI\B22:freetext
+Free Text:ORBI\B23:freetext
+Free Text:ORBI\B24:freetext
+Free Text:ORBI\B25:freetext
+Free Text:ORBI\B26:freetext
+Free Text:ORBI\C:freetext
+Free Text:ORBI\C31:freetext
+Free Text:ORBI\C32:freetext
+Free Text:ORBI\C33:freetext
+Free Text:ORBI\C34:freetext
+Free Text:ORBI\C35:freetext
+Free Text:ORBI\C36:freetext
+Free Text:ORBI\D:freetext
+Free Text:ORBI\D41:freetext
+Free Text:ORBI\D42:freetext
+Free Text:ORBI\D43:freetext
+Free Text:ORBI\D44:freetext
+Free Text:ORBI\D45:freetext
+Free Text:ORBI\D46:freetext
+Free Text:ORBI\G:freetext
+Free Text:ORBI\K:freetext
+Free Text:ORBI\K1:freetext
+Free Text:ORBI\K2:freetext
+Free Text:ORBI\K3:freetext
+Free Text:ORBI\M:freetext
+Free Text:ORBI\M6:freetext
+Free Text:ORBI\N:freetext
+Free Text:ORBI\O:freetext
+Free Text:ORBI\P:freetext
+Free Text:ORBI\P1:freetext
+Free Text:ORBI\P2:freetext
+Free Text:ORBI\P3:freetext
+Free Text:ORBI\P4:freetext
+Free Text:ORBI\P5:freetext
+Free Text:ORBI\P6:freetext
+Free Text:ORBI\R:freetext
+Free Text:ORBI\R21:freetext
+Free Text:ORBI\R22:freetext
+Free Text:ORBI\R23:freetext
+Free Text:ORBI\R24:freetext
+Free Text:ORBI\S:freetext
+Free Text:ORBI\S1:freetext
+Free Text:ORBI\S2:freetext
+Free Text:ORBI\S3:freetext
+Free Text:ORBI\S4:freetext
+Free Text:ORBI\S5:freetext
+Free Text:ORBI\S6:freetext
+Free Text:ORBI\T:freetext
+Free Text:ORBI\V:freetext
+Free Text:ORBI\V1:freetext
+Free Text:ORBI\W:freetext
+Free Text:ORBI\Y:freetext
+Free Text:ORBM\1:freetext
+Free Text:ORBM\10:freetext
+Free Text:ORBM\11:freetext
+Free Text:ORBM\12:freetext
+Free Text:ORBM\13:freetext
+Free Text:ORBM\14:freetext
+Free Text:ORBM\15:freetext
+Free Text:ORBM\16:freetext
+Free Text:ORBM\17:freetext
+Free Text:ORBM\18:freetext
+Free Text:ORBM\19:freetext
+Free Text:ORBM\2:freetext
+Free Text:ORBM\20:freetext
+Free Text:ORBM\21:freetext
+Free Text:ORBM\22:freetext
+Free Text:ORBM\23:freetext
+Free Text:ORBM\24:freetext
+Free Text:ORBM\3:freetext
+Free Text:ORBM\4:freetext
+Free Text:ORBM\5:freetext
+Free Text:ORBM\6:freetext
+Free Text:ORBM\7:freetext
+Free Text:ORBM\8:freetext
+Free Text:ORBM\9:freetext
+Free Text:ORER\1:freetext
+Free Text:ORER\1:freetext
+Free Text:ORER\10:freetext
+Free Text:ORER\11:freetext
+Free Text:ORER\12:freetext
+Free Text:ORER\13:freetext
+Free Text:ORER\2:freetext
+Free Text:ORER\2:freetext
+Free Text:ORER\3:freetext
+Free Text:ORER\3:freetext
+Free Text:ORER\31:freetext
+Free Text:ORER\32:freetext
+Free Text:ORER\33:freetext
+Free Text:ORER\34:freetext
+Free Text:ORER\35:freetext
+Free Text:ORER\4:freetext
+Free Text:ORER\4:freetext
+Free Text:ORER\5:freetext
+Free Text:ORER\5:freetext
+Free Text:ORER\6:freetext
+Free Text:ORER\6:freetext
+Free Text:ORER\7:freetext
+Free Text:ORER\7:freetext
+Free Text:ORER\8:freetext
+Free Text:ORER\8:freetext
+Free Text:ORER\9:freetext
+Free Text:ORER\A:freetext
+Free Text:ORER\A1:freetext
+Free Text:ORER\A2:freetext
+Free Text:ORER\A3:freetext
+Free Text:ORER\A4:freetext
+Free Text:ORER\A5:freetext
+Free Text:ORER\B:freetext
+Free Text:ORER\C:freetext
+Free Text:ORER\D:freetext
+Free Text:ORER\E:freetext
+Free Text:ORER\R:freetext
+Free Text:ORMM\1:freetext
+Free Text:ORMM\10:freetext
+Free Text:ORMM\11:freetext
+Free Text:ORMM\12:freetext
+Free Text:ORMM\13:freetext
+Free Text:ORMM\14:freetext
+Free Text:ORMM\15:freetext
+Free Text:ORMM\16:freetext
+Free Text:ORMM\17:freetext
+Free Text:ORMM\2:freetext
+Free Text:ORMM\21:freetext
+Free Text:ORMM\3:freetext
+Free Text:ORMM\3:freetext
+Free Text:ORMM\32:freetext
+Free Text:ORMM\33:freetext
+Free Text:ORMM\34:freetext
+Free Text:ORMM\35:freetext
+Free Text:ORMM\36:freetext
+Free Text:ORMM\37:freetext
+Free Text:ORMM\38:freetext
+Free Text:ORMM\39:freetext
+Free Text:ORMM\4:freetext
+Free Text:ORMM\4:freetext
+Free Text:ORMM\40:freetext
+Free Text:ORMM\41:freetext
+Free Text:ORMM\5:freetext
+Free Text:ORMM\5:freetext
+Free Text:ORMM\9:freetext
+Free Text:ORMM\G1:freetext
+Free Text:ORMM\G2:freetext
+Free Text:ORMM\G3:freetext
+Free Text:ORMM\G4:freetext
+Free Text:ORMM\G5:freetext
+Free Text:ORMM\G6:freetext
+Free Text:ORMM\G7:freetext
+Free Text:ORMM\O10:freetext
+Free Text:ORMM\O11:freetext
+Free Text:ORMM\O12:freetext
+Free Text:ORMM\O13:freetext
+Free Text:ORMM\O8:freetext
+Free Text:ORMM\O9:freetext
+Free Text:ORNJ\3:freetext
+Free Text:ORNJ\3:freetext
+Free Text:ORNJ\3:freetext
+Free Text:ORSU\1:freetext
+Free Text:ORSU\2:freetext
+Free Text:ORSU\3:freetext
+Free Text:ORSU\4:freetext
+Free Text:ORSU\5:freetext
+Free Text:ORSU\6:freetext
+Free Text:ORSU\7:freetext
+Free Text:ORSU\A:freetext
+Free Text:ORSU\D:freetext
+Free Text:ORSU\E:freetext
+Free Text:ORSU\F:freetext
+Free Text:ORSU\G:freetext
+Free Text:ORSU\H:freetext
+Geo:DangerZones:
+Geo:GEO:
+Geo:ORBI:
+Geo:ORBM:
+Geo:ORER:
+Geo:ORMM:
+Geo:ORNJ:
+Geo:ORSU:
+High airways:B411:line
+High airways:B544:line
+High airways:G202:line
+High airways:G55:line
+High airways:G667:line
+High airways:G669:line
+High airways:G795:line
+High airways:L200:line
+High airways:L417:line
+High airways:L602:line
+High airways:M203:line
+High airways:M434:line
+High airways:P975:line
+High airways:R652:line
+High airways:UB544:line
+High airways:UL602:line
+High airways:UM688:line
+High airways:UM860:line
+High airways:UP975:line
+High airways:Z431:line
+Regions:Persian_Gulf:polygon
+Runways:OIAA Abadan 14L-32R:centerline
+Runways:OIAA Abadan 14L-32R:extended centerline 1
+Runways:OIAA Abadan 14L-32R:extended centerline 1 left ticks
+Runways:OIAA Abadan 14L-32R:extended centerline 1 right ticks
+Runways:OIAA Abadan 14L-32R:extended centerline 2
+Runways:OIAA Abadan 14L-32R:extended centerline 2 left ticks
+Runways:OIAA Abadan 14L-32R:extended centerline 2 right ticks
+Runways:OIAA Abadan 14R-32L:centerline
+Runways:OIAA Abadan 14R-32L:extended centerline 1
+Runways:OIAA Abadan 14R-32L:extended centerline 1 left ticks
+Runways:OIAA Abadan 14R-32L:extended centerline 1 right ticks
+Runways:OIAA Abadan 14R-32L:extended centerline 2
+Runways:OIAA Abadan 14R-32L:extended centerline 2 left ticks
+Runways:OIAA Abadan 14R-32L:extended centerline 2 right ticks
+Runways:OIAA Abadan 14R-32L:name
+Runways:ORAA Al-Asad 09L-27R:centerline
+Runways:ORAA Al-Asad 09L-27R:extended centerline 1
+Runways:ORAA Al-Asad 09L-27R:extended centerline 1 left ticks
+Runways:ORAA Al-Asad 09L-27R:extended centerline 1 right ticks
+Runways:ORAA Al-Asad 09L-27R:extended centerline 2
+Runways:ORAA Al-Asad 09L-27R:extended centerline 2 left ticks
+Runways:ORAA Al-Asad 09L-27R:extended centerline 2 right ticks
+Runways:ORAA Al-Asad 09L-27R:name
+Runways:ORAA Al-Asad 09R-27L:centerline
+Runways:ORAA Al-Asad 09R-27L:extended centerline 1
+Runways:ORAA Al-Asad 09R-27L:extended centerline 1 left ticks
+Runways:ORAA Al-Asad 09R-27L:extended centerline 1 right ticks
+Runways:ORAA Al-Asad 09R-27L:extended centerline 2
+Runways:ORAA Al-Asad 09R-27L:extended centerline 2 left ticks
+Runways:ORAA Al-Asad 09R-27L:extended centerline 2 right ticks
+Runways:ORAA Al-Asad 09R-27L:name
+Runways:ORBI Baghdad Intl. 15L-33R:centerline
+Runways:ORBI Baghdad Intl. 15L-33R:extended centerline 1
+Runways:ORBI Baghdad Intl. 15L-33R:extended centerline 1 left ticks
+Runways:ORBI Baghdad Intl. 15L-33R:extended centerline 1 right ticks
+Runways:ORBI Baghdad Intl. 15L-33R:extended centerline 2
+Runways:ORBI Baghdad Intl. 15L-33R:extended centerline 2 left ticks
+Runways:ORBI Baghdad Intl. 15L-33R:extended centerline 2 right ticks
+Runways:ORBI Baghdad Intl. 15L-33R:name
+Runways:ORBI Baghdad Intl. 15R-33L:centerline
+Runways:ORBI Baghdad Intl. 15R-33L:extended centerline 1
+Runways:ORBI Baghdad Intl. 15R-33L:extended centerline 1 left ticks
+Runways:ORBI Baghdad Intl. 15R-33L:extended centerline 1 right ticks
+Runways:ORBI Baghdad Intl. 15R-33L:extended centerline 2
+Runways:ORBI Baghdad Intl. 15R-33L:extended centerline 2 left ticks
+Runways:ORBI Baghdad Intl. 15R-33L:extended centerline 2 right ticks
+Runways:ORBI Baghdad Intl. 15R-33L:name
+Runways:ORBM Mosul Intl. 15-33:centerline
+Runways:ORBM Mosul Intl. 15-33:extended centerline 1
+Runways:ORBM Mosul Intl. 15-33:extended centerline 1 left ticks
+Runways:ORBM Mosul Intl. 15-33:extended centerline 1 right ticks
+Runways:ORBM Mosul Intl. 15-33:extended centerline 2
+Runways:ORBM Mosul Intl. 15-33:extended centerline 2 left ticks
+Runways:ORBM Mosul Intl. 15-33:extended centerline 2 right ticks
+Runways:ORBM Mosul Intl. 15-33:name
+Runways:ORBR Bashur Air Base 13-31:centerline
+Runways:ORBR Bashur Air Base 13-31:extended centerline 1
+Runways:ORBR Bashur Air Base 13-31:extended centerline 1 left ticks
+Runways:ORBR Bashur Air Base 13-31:extended centerline 1 right ticks
+Runways:ORBR Bashur Air Base 13-31:extended centerline 2
+Runways:ORBR Bashur Air Base 13-31:extended centerline 2 left ticks
+Runways:ORBR Bashur Air Base 13-31:extended centerline 2 right ticks
+Runways:ORBR Bashur Air Base 13-31:name
+Runways:ORER Erbil Intl. 18-36:centerline
+Runways:ORER Erbil Intl. 18-36:extended centerline 1
+Runways:ORER Erbil Intl. 18-36:extended centerline 1 left ticks
+Runways:ORER Erbil Intl. 18-36:extended centerline 1 right ticks
+Runways:ORER Erbil Intl. 18-36:extended centerline 2
+Runways:ORER Erbil Intl. 18-36:extended centerline 2 left ticks
+Runways:ORER Erbil Intl. 18-36:extended centerline 2 right ticks
+Runways:ORER Erbil Intl. 18-36:name
+Runways:ORKK Kirkuk 13-31:centerline
+Runways:ORKK Kirkuk 13-31:extended centerline 1
+Runways:ORKK Kirkuk 13-31:extended centerline 1 left ticks
+Runways:ORKK Kirkuk 13-31:extended centerline 1 right ticks
+Runways:ORKK Kirkuk 13-31:extended centerline 2
+Runways:ORKK Kirkuk 13-31:extended centerline 2 left ticks
+Runways:ORKK Kirkuk 13-31:extended centerline 2 right ticks
+Runways:ORKK Kirkuk 13-31:name
+Runways:ORKK Kirkuk 14-32:centerline
+Runways:ORKK Kirkuk 14-32:extended centerline 1
+Runways:ORKK Kirkuk 14-32:extended centerline 1 left ticks
+Runways:ORKK Kirkuk 14-32:extended centerline 1 right ticks
+Runways:ORKK Kirkuk 14-32:extended centerline 2
+Runways:ORKK Kirkuk 14-32:extended centerline 2 left ticks
+Runways:ORKK Kirkuk 14-32:extended centerline 2 right ticks
+Runways:ORKK Kirkuk 14-32:name
+Runways:ORMM Basrah Intl. 14-32:centerline
+Runways:ORMM Basrah Intl. 14-32:extended centerline 1
+Runways:ORMM Basrah Intl. 14-32:extended centerline 1 left ticks
+Runways:ORMM Basrah Intl. 14-32:extended centerline 1 right ticks
+Runways:ORMM Basrah Intl. 14-32:extended centerline 2
+Runways:ORMM Basrah Intl. 14-32:extended centerline 2 left ticks
+Runways:ORMM Basrah Intl. 14-32:extended centerline 2 right ticks
+Runways:ORMM Basrah Intl. 14-32:name
+Runways:ORNI Al-Ashraf Intl. 10-28:centerline
+Runways:ORNI Al-Ashraf Intl. 10-28:extended centerline 1
+Runways:ORNI Al-Ashraf Intl. 10-28:extended centerline 1 left ticks
+Runways:ORNI Al-Ashraf Intl. 10-28:extended centerline 1 right ticks
+Runways:ORNI Al-Ashraf Intl. 10-28:extended centerline 2
+Runways:ORNI Al-Ashraf Intl. 10-28:extended centerline 2 left ticks
+Runways:ORNI Al-Ashraf Intl. 10-28:extended centerline 2 right ticks
+Runways:ORNI Al-Ashraf Intl. 10-28:name
+Runways:ORSU Sulaimaniyah Intl. 13-31:centerline
+Runways:ORSU Sulaimaniyah Intl. 13-31:extended centerline 1
+Runways:ORSU Sulaimaniyah Intl. 13-31:extended centerline 1 left ticks
+Runways:ORSU Sulaimaniyah Intl. 13-31:extended centerline 1 right ticks
+Runways:ORSU Sulaimaniyah Intl. 13-31:extended centerline 2
+Runways:ORSU Sulaimaniyah Intl. 13-31:extended centerline 2 left ticks
+Runways:ORSU Sulaimaniyah Intl. 13-31:extended centerline 2 right ticks
+Runways:ORSU Sulaimaniyah Intl. 13-31:name
+Sids:OIAA_14R:
+Sids:OIAA_32L:
+Sids:ORBI_15L:
+Sids:ORBI_15R:
+Sids:ORBI_33L:
+Sids:ORBI_33R:
+Sids:ORBR_31:
+Sids:ORNI_10:
+Sids:ORNI_28:
+Sids:ORSU_13:
+Sids:ORSU_31:
+Stars:OIAA_14R:
+Stars:OIAA_32L:
+Stars:ORNI_10:
+Stars:ORNI_28:
+Stars:ORSU_13:
+Stars:ORSU_31:
+VORs:ABD:symbol
+VORs:BSR:symbol
+VORs:RAA:symbol
+VORs:RER:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:FRESH-UP_EFHK
+WINDOWAREA:27.501861:27.687996:38.616243:51.995731
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

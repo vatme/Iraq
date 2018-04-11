@@ -1,0 +1,36 @@
+RecentFiles	Recent1	\Data\ASR\Iraq.asr
+Settings	sector	C:\Users\nathalie\Documents\EuroScope\IRQ-master\Data\Sector\IRQ.sct
+Plugins	Plugin0	\Data\Plugins\HoldingList\HoldingListPlugin.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\Data\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Settings	SettingsfileSYMBOLOGY	\Data\Plugins\TopSky\Beta\Setup_FI\Settings\Symbols_beta.txt
+Settings	SettingsfileVOICE	\Data\Settings\voice.txt
+Settings	SettingsfilePROFILE	\Data\Settings\profiles.txt
+Settings	SettingsfileTAGS	\Data\Plugins\TopSky\Beta\Setup_FI\Settings\Tags_beta.txt
+Settings	SettingsfileSIL	\Data\Plugins\TopSky\Beta\Setup_FI\Settings\Lists_beta.txt
+Settings	SettingsfileSEL	\Data\Plugins\TopSky\Beta\Setup_FI\Settings\Lists_beta.txt
+Settings	SettingsfileDEP	\Data\Plugins\TopSky\Beta\Setup_FI\Settings\Lists_beta.txt
+Settings	SettingsfileARR	\Data\Plugins\TopSky\Beta\Setup_FI\Settings\Lists_beta.txt
+Settings	SettingsfileFP	\Data\Plugins\TopSky\Beta\Setup_FI\Settings\Lists_beta.txt
+Settings	SettingsfilePLUGINS	\Data\Settings\PlugIns.txt
+Settings	Settingsfile	\Data\Settings\General.txt
+Settings	SettingsfileSCREEN	\Data\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\Data\Plugins\TopSky\Beta\Setup_FI\Settings\Lists_beta.txt
+Settings	SettingsfileVCCS	\Data\Settings\VCCS.txt
+Settings	AtisFolder	\Data\ATIS\atisfiles.txt
+LastSession	connecttype	0
+LastSession	callsign	ORBB_CTR
+LastSession	facility	6
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Baghdad Control
+LastSession	atis3	Report Aircraft type, position and altitude on Initial Contact
+LastSession	atis4	Charts and Procedures @ vatame.org/vacc/ORBB
+LastSession	range	285
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	airlines	\DataFiles\ICAO_Aircraft.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt

@@ -130,8 +130,8 @@ RECORD:northeast:northeast.wav
 RECORD:northwest:northwest.wav
 RECORD:NOSIG:nosig.wav
 RECORD:o:o.wav
-RECORD:ORBI:orbi.wav
 RECORD:or:or.wav
+RECORD:ORBI:orbi.wav
 RECORD:Oulu:efou.wav
 RECORD:overcast:ovc.wav
 RECORD:p:p.wav
@@ -226,30 +226,3 @@ RECORD:windshear all runways:WSall.wav
 RECORD:x:x.wav
 RECORD:y:y.wav
 RECORD:z:z.wav
-ITEM:This is:XXX
-ITEM:OEJN:XXX
-ITEM:information:XXX
-ITEM:D:
-ITEM:at time:XXX
-ITEM:2300:
-ITEM:expect ILS approach:XXX
-ITEM:runway:XXX
-ITEM:34L:
-ITEM:in use:XXX
-ITEM:transition level:XXX
-ITEM:55:
-ITEM:wind:XXX
-ITEM:320:
-ITEM:degrees:XXX
-ITEM:5:
-ITEM:knots:XXX
-ITEM:CAVOK:XXX
-ITEM:temperature:XXX
-ITEM:32:
-ITEM:dew point:XXX
-ITEM:21:
-ITEM:QNH:XXX
-ITEM:1002:
-ITEM:NOSIG:XXX
-ITEM:advise on initial contact you have information:XXX
-ITEM:D:

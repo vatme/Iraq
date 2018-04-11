@@ -1,0 +1,46 @@
+PROFILE
+PROFILE:ORBB_CTR:285:6
+ATIS2:Baghdad Control
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORBB_N_CTR:285:6
+ATIS2:Baghdad Control
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORBB_S_CTR:285:6
+ATIS2:Baghdad Control
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORBI_APP:200:5
+ATIS2:Baghdad Approach
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORMM_APP:200:5
+ATIS2:Basrah Approach
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORNI_APP:200:5
+ATIS2:Al-Ashraf Approach
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORBI_TWR:100:4
+ATIS2:Baghdad Tower | voice ATIS on 127..250
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORMM_TWR:100:4
+ATIS2:Basrah Tower
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORKK_TWR:100:4
+ATIS2:Kirkuk Tower
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORNI_TWR:100:4
+ATIS2:Al-Ashraf Tower
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+PROFILE:ORMM_GND:100:3
+ATIS2:Basrah Ground
+ATIS3:Report Aircraft type, position and altitude on Initial Contact
+ATIS4:Charts and Procedures @ vatame.org/vacc/ORBB
+END
