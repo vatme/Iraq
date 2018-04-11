@@ -1,5 +1,5 @@
 RecentFiles	Recent1	\Data\ASR\Iraq.asr
-Settings	sector	C:\Users\nathalie\Documents\EuroScope\IRQ-master\Data\Sector\IRQ.sct
+Settings	sector	\Data\Sector\IRQ.sct
 Plugins	Plugin0	\Data\Plugins\HoldingList\HoldingListPlugin.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	\Data\Plugins\VirtualControllerAssistant.dll
@@ -34,3 +34,6 @@ LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Settings	airlines	\DataFiles\ICAO_Aircraft.txt
 Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+RecentFiles	Recent2	\Data\ASR\Iraq.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480

@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\nathalie\Documents\EuroScope\IRQ-master\Data\Sector\IRQ.sct
+SECTORFILE:C:\Users\nathalie\Documents\Iraq\Data\Sector\IRQ.sct
 SECTORTITLE:IRQ.sct
 Airports:OIAA:name
 Airports:ORAA:name
@@ -404,7 +404,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:FRESH-UP_EFHK
-WINDOWAREA:27.501861:27.687996:38.616243:51.995731
+WINDOWAREA:25.731200:25.260620:39.624178:55.645289
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:0
 PLUGIN:Virtual Controller Assistant:CDXPOS:100
