@@ -1,6 +1,6 @@
 # Iraqi Controller Pack
 Iraqi Controller Pack | 2018
-Welcome to the Iraqi Controller pack! The mian sectorfile for controllers in the Baghdad FIR. This controller pack was created from scratch by Chriss Klosowski (1306415). 
+Welcome to the Iraqi Controller pack! The main sectorfile for controllers in the Baghdad FIR. This controller pack was created from scratch by Chriss Klosowski (1306415). 
 
 ## Installation
 
