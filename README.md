@@ -1,18 +1,18 @@
 # Iraqi Controller Pack
-United Iraqi Controller Pack | 2018
+Iraqi Controller Pack | 2018
 Welcome to the Iraqi Controller pack! The mian sectorfile for controllers in the BaghDad FIR. This controller pack was created from scratch by Chriss Klosowski (1306415). 
 
 ## Installation
-A documentation file can be found in the root of the sectorfile. This PDF will explain and guide you on installting this controller pack so it works perfectly. However a few things are required:
 
 * Euroscope 3.2 https://www.euroscope.hu/ *required* for plugins to work!
 Compatible with the Euroscope radar client only. Not tested with VRC so it may or may not work with VRC.
+* Documentation on the TopSky plugin can be found under ......Documents\Euroscope\Iraq-Master\Data\Plugins\TopSky
 
 ## Instructions
-The controller pack once downloaded from Github will come as IRQ-master.rar extract the folder inside the archive to:
+The controller pack once downloaded from Github will come as Iraq-master.rar extract the folder inside the archive to:
 * ……Documents\Euroscope\
 Installing it in the correct place will allow the profiles to properly load onto Euroscope. If not you will get errors stating that its not finding the correct directories of the settings, displays etc.. To make sure you’ve installed the Controller Pack correctly this is an example of the Iraqi Profile
-* ……Documents\Euroscope\IRQ-master\Iraq.prf
+* ……Documents\Euroscope\Iraq-master\Iraq.prf
 This method is used to double check that this is in the correct directory. If you try to put it outside Documents\Euroscope\ none of the settings or displays as I said previously will work and you will be presented with a black screen with nothing showing up.
 
 1. Open Euroscope and choose a stations pre-confiqured profile.
